@@ -1,0 +1,38 @@
+.btn-danger{	
+		background-color:blue;
+}
+
+
+.btn-primary {
+
+	background-color:red;
+}
+
+
+.btn-danger:hover{
+	background-color:orange;
+}
+
+
+.col{
+
+		background-color: grey;
+		border: 2px solid black;
+	}  
+
+
+.btn-success {
+		background-color:pink;
+	}
+
+
+.btn-success:hover {
+		background-color: rgba(0,0,0,0.603);
+	}
+
+
+.btn-primary: hover {
+
+	background-color:red;
+}
+
